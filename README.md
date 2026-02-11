@@ -8,7 +8,7 @@ A **privacy-first, fully offline AI coding assistant** that runs entirely on you
 
 - Point it at your codebase → it indexes everything locally → ask questions about your code
 - Powered by open-source LLMs running via **Ollama** — no cloud, no API keys, no data leaves your machine
-- Built with Kotlin Multiplatform — runs on **Windows, macOS, and Android**
+- Built with Kotlin Multiplatform — runs on **Windows, macOS**
 
 ---
 
